@@ -8,6 +8,8 @@
  * 
  *   Here our program takes in an outfile name, and two arguments for
  *   the rows and columns for the size of the image to produce. 
+ * 
+ *   I have added this comment to the RedBluePPM.c file for the lab exercise.
 */ 
 
 int main(int argc,    // This is the number of things passed into this function.  
